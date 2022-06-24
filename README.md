@@ -1,6 +1,6 @@
 # Lenovo Ideapad 320 15-IKB Hackintosh
 
-![About This Mac](https://github.com/ConradoLuiz/hackintosh-Lenovo-Ideapad-320-15-ikb/blob/master/Assets/Screen%20Shot%202019-09-22%20at%2002.19.34.png)
+![About This Mac](https://github.com/Monteiro1509/Lenovo-Ideapad-320-Hackintosh/blob/main/Assets/About%20This%20Mac%202022-06-24.png)
 
 ## Working:
 
